@@ -1,4 +1,4 @@
-# PasswordGenerator
+# Secure Your Info
 
 ## Description
 
