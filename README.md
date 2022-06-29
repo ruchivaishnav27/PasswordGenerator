@@ -6,7 +6,7 @@ This website will generate a secure password for those who need one for protecti
 
 ## Installation
 
-To view this website, please click on the following link: 
+To view this website, please click on the following link: https://ruchivaishnav27.github.io/PasswordGenerator/
 
 ## Usage
 
